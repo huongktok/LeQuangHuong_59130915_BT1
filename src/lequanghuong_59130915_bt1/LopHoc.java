@@ -32,9 +32,9 @@ public class LopHoc {
         if(QLhocSinh.them(hs)==1) return 1;
         return 0;
     }
-    public int themGVGD(GiaoVien gv1)
+    public int themGVGD(GiaoVien gv)
     {
-        if(QLgiaoVienGD.them(gv1)==1) return 1;
+        if(QLgiaoVienGD.them(gv)==1) return 1;
         return 0;
     }
     public int inDSHS()

@@ -21,10 +21,10 @@ public class LeQuangHuong_59130915_BT1 {
         LopHoc lop59CNTT3=new LopHoc(GVCN);
         //
         
-        HocSinh hs0 = new HocSinh("To Hieu Ngoi",21,"Xuan Canh","0344683323","59CNTT3","AAA");
-        HocSinh hs1 = new HocSinh("Vo Dong Cac",21,"Thap Ba","1111111","59CNTT3","BBB");
-        HocSinh hs2 = new HocSinh("Vu Gia Khiem",21,"Dien Khanh","222222","59CNTT3","ABAB");
-        HocSinh hs3 = new HocSinh("Dang Huu Phuc",21,"Dien Khanh","3333","59CNTT3","AABB");
+        HocSinh hs0 = new HocSinh("Le Quang Huong",21,"Xuan Canh","0344683323","59CNTT3","AAA");
+        HocSinh hs1 = new HocSinh("Vo Trung Ha",21,"Thap Ba","1111111","59CNTT3","BBB");
+        HocSinh hs2 = new HocSinh("Nguyen Song Thanh",21,"Dien Khanh","222222","59CNTT3","ABAB");
+        HocSinh hs3 = new HocSinh("Ho Nguyen Thanh Thien",21,"Dien Khanh","3333","59CNTT3","AABB");
         lop59CNTT3.themHocSinh(hs0);
         lop59CNTT3.themHocSinh(hs1);
         lop59CNTT3.themHocSinh(hs2);

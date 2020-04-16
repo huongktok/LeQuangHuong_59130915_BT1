@@ -25,10 +25,6 @@ public class HocSinh extends CaNhan{
         this.nangKhieu=nangKhieu;
     }
 
-    HocSinh(String to_Hieu_Ngoi, int i, String xuan_Canh, String string, String cntT3, String aaa) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
     public String getLop() {
         return lop;
     }
